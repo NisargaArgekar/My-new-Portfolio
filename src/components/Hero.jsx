@@ -39,13 +39,13 @@ const Hero = () => {
           <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" className="w-8 h-8" />
         </a>
         <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
-          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" className="w-8 h-8" />
+          <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" className="w-8 h-8" />
         </a>
         {/* Add more icons as needed */}
       </div>
     </section>
   );
-  
+
 };
 
 export default Hero;
