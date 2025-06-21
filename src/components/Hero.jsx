@@ -24,7 +24,7 @@ const Hero = () => {
           View Resume
         </a>
         <a
-          href="mailto:your.email@example.com"
+          href="mailto:argekarnisarga15@.com"
           className="border border-blue-600 text-blue-600 px-5 py-2 rounded-xl hover:bg-blue-50 transition"
         >
           Contact Me
@@ -32,10 +32,10 @@ const Hero = () => {
       </div>
 
       <div className="flex space-x-4">
-        <a href="https://github.com/your-github" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/NisargaArgekar" target="_blank" rel="noopener noreferrer">
           <img src="https://skillicons.dev/icons?i=github" alt="GitHub" className="w-8 h-8" />
         </a>
-        <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/nisarga-argekar" target="_blank" rel="noopener noreferrer">
           <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" className="w-8 h-8" />
         </a>
         <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
