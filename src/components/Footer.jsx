@@ -7,7 +7,7 @@ const Footer = () => {
         <p className="text-sm mb-2">
           © 2025 <span className="font-semibold">Nisarga Argekar</span>. All rights reserved.
         </p>
-        <p className="text-xs text-gray-400">Made with ❤️ using React & Tailwind</p>
+       
       </div>
     </footer>
   );

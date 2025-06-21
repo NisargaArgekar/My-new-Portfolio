@@ -12,7 +12,7 @@ const experiences = [
     ],
   },
   {
-    role: "Web Development Intern",
+    role: "AI/ML and DataScience Intern",
     company: "AiRobosoft",
     duration: "May 2023 – Jul 2023",
     points: [
@@ -25,7 +25,7 @@ const experiences = [
 
 const Experience = () => {
   return (
-    <section className="py-16 px-6 bg-gray-50" id="experience">
+    <section className="py-16 px-6 bg-gray-100 rounded-2xl" id="experience">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-800 mb-10">
           Experience
