@@ -21,7 +21,7 @@ const Contact = () => {
 
         <div className="flex justify-center gap-4 mt-6">
           <a
-            href="https://github.com/your-github"
+            href="https://github.com/NisargaArgekar"
             target="_blank"
             rel="noopener noreferrer"
           >

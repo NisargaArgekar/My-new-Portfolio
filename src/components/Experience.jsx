@@ -2,9 +2,9 @@ import React from "react";
 
 const experiences = [
   {
-    role: "Frontend Developer Intern",
+    role: "Intern",
     company: "Techsaksham",
-    duration: "Jan 2024 – Mar 2024",
+    duration: "May 2024 – June 2024",
     points: [
       "Built responsive UI components using React and Tailwind CSS.",
       "Integrated Firebase for authentication and data storage.",
@@ -14,7 +14,7 @@ const experiences = [
   {
     role: "AI/ML and DataScience Intern",
     company: "AiRobosoft",
-    duration: "May 2023 – Jul 2023",
+    duration: "Aug 2023 – Sep 2023",
     points: [
       "Developed dynamic web pages using HTML, CSS, and JavaScript.",
       "Worked on client-side validation and API integration.",
