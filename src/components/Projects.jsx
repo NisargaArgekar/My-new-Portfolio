@@ -5,19 +5,26 @@ const projects = [
     title: "HireVista",
     description:
       "A job portal connecting job seekers with recruiters. Includes authentication, resume upload, and search filters.",
-    tech: ["React", "Firebase", "Tailwind"],
-    github: "https://github.com/your-username/hirevista",
-    live: "https://hirevista.vercel.app",
+    tech: ["React", "Supabase","Clerck", "Tailwind"],
+    github: "https://github.com/NisargaArgekar/HireVista",
+    live: "https://hire-vista.vercel.app",
   },
   {
     title: "BiteMeal",
     description:
       "A smart food-ordering web app with real-time menu and cart. Fully responsive and built with modern stack.",
-    tech: ["React", "CSS", "LocalStorage"],
-    github: "https://github.com/your-username/bitemeal",
-    live: "https://bitemeal.vercel.app",
+    tech: ["React", "Tailwind", "LocalStorage"],
+    github: "https://github.com/NisargaArgekar/BiteMeal",
+    live: "https://food-delivery-website-eight-psi.vercel.app",
   },
-  // Add more projects as needed
+   {
+    title: "Diction-Snap",
+    description:
+      "Ai-Powered Dictionary which helps in finding the meaning of words, synonyms, antonyms, and more.",
+    tech: ["React", "CSS", "LocalStorage"],
+    github: "https://github.com/NisargaArgekar/Diction-Snap",
+    live: "https://diction-snap.vercel.app",
+  },
 ];
 
 const Projects = () => {
