@@ -1,6 +1,7 @@
 import Hero from './components/Hero';
 import About from './components/About';
 import './App.css'
+import { ThemeProvider } from './components/theme-provider';
 import Projects from './components/Projects';
 import Experience from './components/Experience';
 import Skills from './components/Skills';
@@ -11,6 +12,7 @@ function App() {
   
 
   return (
+  <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
   <div>
     <Hero />
     <About/>
@@ -19,7 +21,10 @@ function App() {
     <Experience/>
     <Contact/>
     <Footer/>
-  </div>
+     
+       </div>
+    </ThemeProvider>
+
   )
 }
 
